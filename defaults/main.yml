@@ -1,4 +1,4 @@
 msi_extension: 
-  url: "https://www.aps.anl.gov/epics/download/extensions/msi1-7.tar.gz"
+  url: "https://epics.anl.gov/epics/download/extensions/msi1-7.tar.gz"
   unarchived_name: "msi1-7"
   release: false
